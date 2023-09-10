@@ -1,0 +1,6 @@
+{
+    "debug.javascript.autoAttachFilter": "always",
+    "rest-client.decodeEscapedUnicodeCharacters": true,
+    "rest-client.logLevel": "warn",
+    "rest-client.addRequestBodyLineIndentationAroundBrackets": true
+}
