@@ -29,11 +29,16 @@ Frontend: React.js
 Backend: Node.js, Express.js, MongoDB (for storing tasks)
 Styling: CSS
 ### API Endpoints
-GET /todo: Retrieve a list of all tasks.
-POST /todo/new: Create a new task.
-GET /todo/complete/:id: Toggle the completion status of a task.
-DELETE /todo/delete/:id: Delete a task.
-PUT /todo/update/:id: Update the text of a task.
+-GET /todo: Retrieve a list of all tasks.
+
+-POST /todo/new: Create a new task.
+
+-GET /todo/complete/:id: Toggle the completion status of a task.
+
+-DELETE /todo/delete/:id: Delete a task.
+
+-PUT /todo/update/:id: Update the text of a task.
+
 ### Folder Structure
 client: Contains the React frontend code.
 api: Contains the Express.js backend code.
